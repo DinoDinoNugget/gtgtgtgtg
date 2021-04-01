@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    
+}
+#img1 {
+    width:100%;
+}
+.img2 {
+    width:200px;
+    height:200px;
+}
+#myCarousel {
+    background-color: red;
+}
+#myCarousel img {
+    height: 350px;
+}
